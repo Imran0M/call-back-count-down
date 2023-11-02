@@ -1,0 +1,14 @@
+.flex{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.displaydata{
+    font-size: 30px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
